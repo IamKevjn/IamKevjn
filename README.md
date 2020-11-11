@@ -7,6 +7,6 @@
 
 |Front-End      |Back-End     |
 |:-------------:|:-----------:|
-|[x] HTML       | [ ] PHP     |
-|[x] CSS        | [ ] Python  |
-|[ ] Javascript | [ ] SQL     |
+|:heavy_check_mark: HTML       | :x: PHP     |
+|:heavy_check_mark: CSS        | :x: Python  |
+|:x: Javascript | :x: SQL     |
